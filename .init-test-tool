@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/shopsync-66195-b05bb3c9/shopsync"
+}
